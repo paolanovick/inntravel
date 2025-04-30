@@ -58,7 +58,7 @@ export const datosAgenciaSimuladaBack: AgenciaBackData = {
 
   footer_texto: "© 2025 Inntravel Viajes - Todos los derechos reservados",
   footer_tipografia: "Verdana",
-  footer_tipografia_color: "black",
+  footer_tipografia_color: "#0277BD",
   footer_facebook: "https://www.facebook.com/inntravelviajes",
   footer_twitter: "x",
   footer_instagram: "https://www.instagram.com/inntravel_viajes/",
